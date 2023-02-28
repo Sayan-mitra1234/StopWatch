@@ -1,0 +1,54 @@
+body{
+    background-color: aqua;
+}
+.container{
+    border: 5px solid aqua;
+    text-align: center;
+    margin-top:80px ;
+    margin-left: 100px;
+    margin-right:  100px;
+    padding: 40px;
+}
+.time-display{
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    color: chocolate;
+}
+button{
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    
+    font-size: 20px;
+    font-weight: 900;
+
+}
+#start{
+    color: green;
+    border-color: green;
+    background-color: aqua;
+}
+#pause{
+    color: red;
+    border-color: red;
+    background-color: aqua;
+}
+#reset{
+    color: goldenrod;
+    border-color: goldenrod;
+    background-color: aqua;
+}
+#cast{
+    
+    background-color: aqua;
+}
+
+p{
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: brown;
+    font-weight: 900;
+}
